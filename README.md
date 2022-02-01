@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@nitisht80158458" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nitisht80158458" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/httpsnitish-kumar-tiwari-ab3a49215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="httpsnitish-kumar-tiwari-ab3a49215" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/httpsnitish-kumar-tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="httpsnitish-kumar-tiwari-ab3a49215" height="30" width="40" /></a>
 <a href="https://fb.com/nitish kumar tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nitish kumar tiwari" height="30" width="40" /></a>
 <a href="https://instagram.com/nitish_tiwari_17_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitish_tiwari_17_10" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@nitish_tiwari_c1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@nitish_tiwari_c1" height="30" width="40" /></a>
