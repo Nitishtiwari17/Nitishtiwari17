@@ -8,4 +8,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to play chess and Bike riding 
 
-<img src"https://github.com/Nitishtiwari17/Nitishtiwari17/blob/main/README.md">
+
