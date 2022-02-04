@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nitish Kumar Tiwari</h1>
+<h1 align="center">Hii 👋, I'm Nitish Kumar Tiwari</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishtiwari17&label=Profile%20views&color=0e75b6&style=flat" alt="nitishtiwari17" /> </p>
 
 - 🔭 I’m currently working on **something really cool**
