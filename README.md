@@ -36,4 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitishtiwari17&show_icons=true&locale=en" alt="nitishtiwari17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitishtiwari17&" alt="nitishtiwari17" /></p>
-![](https://leetcard.jacoblin.cool/Nitishtiwari17?cache=0)
+![](https://leetcard.jacoblin.cool/Nitishtiwari17?hide=ranking,total-solved-text,easy-solved-count,medium-solved-count,hard-solved-count)
