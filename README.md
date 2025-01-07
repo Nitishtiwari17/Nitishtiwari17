@@ -2,19 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishtiwari17&label=Profile%20views&color=0e75b6&style=flat" alt="nitishtiwari17" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitishtiwari17" alt="nitishtiwari17" /></a> </p>
-
-- 🔭 I’m currently Studying **Computer Science**
-
-- 🌱 I’m currently learning **Data structure and Algorithms**
-
-- 🤝 I’m looking for help with **with Java/Python/C programming**
-
-- 💬 Ask me about **I am happy to help.**
-
-- 📫 How to reach me **nitishtiwari1710@gmail.com**
-
-- ⚡ Fun fact **I love to play chess and Bike riding**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@nitisht80158458" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nitisht80158458" height="30" width="40" /></a>
